@@ -101,6 +101,7 @@ html { scroll-padding-top: 92px; }
 /* Official PREVIAX brand assets from /public. These crops preserve the original files without modifying them. */
 :root { --previax-navy: #062b60; --previax-blue: #126dff; --previax-green: #16c76b; --previax-surface: #f6f8fb; }
 .brand-logo-image { display: block; width: 142px; height: 42px; object-fit: cover; object-position: center; }
+.brand-logo-header { object-fit: contain; }
 .brand-symbol-image { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
 .logo { gap: 0; letter-spacing: 0; }
 .mock-brand { display: flex; align-items: center; gap: 5px; color: var(--previax-navy); font-weight: 800; }.mock-brand .brand-symbol-image { width: 18px; height: 18px; border-radius: 4px; }
