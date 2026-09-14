@@ -100,7 +100,7 @@ html { scroll-padding-top: 92px; }
 
 /* Official PREVIAX brand assets from /public. These crops preserve the original files without modifying them. */
 :root { --previax-navy: #062b60; --previax-blue: #126dff; --previax-green: #16c76b; --previax-surface: #f6f8fb; }
-.brand-logo-image { display: block; width: 142px; height: 42px; object-fit: cover; object-position: center; }
+.brand-logo-image { display: block; width: 178px; height: 52px; object-fit: cover; object-position: center; }
 .brand-logo-header { object-fit: contain; }
 .brand-symbol-image { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
 .logo { gap: 0; letter-spacing: 0; }
@@ -108,7 +108,7 @@ html { scroll-padding-top: 92px; }
 .cta-mark { overflow: hidden; padding: 5px; background: #fff; border-color: rgba(18,109,255,.32); }.cta-mark .brand-symbol-image { border-radius: 8px; }
 .button-primary, .featured-button { background: var(--previax-blue); border-color: var(--previax-blue); }.button:hover, .plan-button:hover { box-shadow: 0 12px 24px rgba(18,109,255,.22); }.section-label .label-dot, .logo-mark { background: var(--previax-blue); }.benefits-copy h2 em, .final-cta h2 em { color: #6ba7ff; }
 .footer-main .brand-logo-image { width: 132px; height: 39px; }.footer-main .brand-logo-monochrome { object-position: center 78%; }
-@media (max-width: 560px) { .brand-logo-image { width: 126px; height: 37px; }.footer-main .brand-logo-image { width: 122px; height: 36px; } }
+@media (max-width: 560px) { .brand-logo-image { width: 155px; height: 45px; }.footer-main .brand-logo-image { width: 122px; height: 36px; } }
 
 
 /* Principais recursos: grid mais claro, com foco no recurso principal e leitura consistente. */
